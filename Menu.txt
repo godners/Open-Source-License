@@ -1,0 +1,6 @@
+﻿URL: https://opensource.org/licenses/alphabetical
+
+001 - AFL3: Academic Free License 3.0
+002 - APL1: Adaptive Public License 1.0
+003 - Apache2: Apache License, Version 2.0
+004 - APSL2: Apple Public Source License 2.0
